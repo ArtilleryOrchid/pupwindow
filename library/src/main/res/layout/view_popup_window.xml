@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yuyh.library.BubbleRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/brlBackground"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    app:Radius="10"
+    app:halfBaseOfLeg="18dp"
+    app:padding="18dp"
+    app:Color="#64000000"
+    app:Width="5">
+
+</com.yuyh.library.BubbleRelativeLayout>
