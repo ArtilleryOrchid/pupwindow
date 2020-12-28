@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 
 public class MainActivity extends AppCompatActivity {
-
+    //弹窗特效
     private BubblePopupWindow leftTopWindow;
     private BubblePopupWindow rightTopWindow;
     private BubblePopupWindow leftBottomWindow;
