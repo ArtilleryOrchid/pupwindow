@@ -7,7 +7,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
 
-
+/**
+ * 测试提交
+ */
 public class MainActivity extends AppCompatActivity {
     //弹窗特效
     private BubblePopupWindow leftTopWindow;
